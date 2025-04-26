@@ -1,0 +1,9 @@
+Drug 1,Drug 2,Interaction Description
+Metformin,Lisinopril,Minimal risk of interaction. Monitor blood pressure.
+Aspirin,Warfarin,Increased risk of bleeding when used together.
+Warfarin,Digoxin,May increase risk of bleeding and alter Digoxin levels.
+Ciprofloxacin,Theophylline,May increase risk of theophylline toxicity.
+Simvastatin,Erythromycin,May increase risk of myopathy and rhabdomyolysis.
+Fluoxetine,Tramadol,Increased risk of serotonin syndrome.
+Amiodarone,Warfarin,Increases warfarin effects and bleeding risk.
+Lithium,Diuretics,May increase lithium levels causing toxicity.
